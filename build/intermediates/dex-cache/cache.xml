@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/pre-dexed/release/classes-9e39f47383ec3e02ca96083a79b55983e69864cd.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/pre-dexed/release/classes-fc2e5c246e39b483beeeaa9a39bc7f593bf6041e.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-36958e2f9be822acb2739821b5df4a827d76d548.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/pre-dexed/debug/classes-6e8f2a1dfd00f4ec213561baa0430fd9b235e538.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/pre-dexed/release/classes-c66609fccee2378fce5e895aed2ccd49ee15dcd8.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/pre-dexed/debug/classes-f7229b6eecf3316a6fa1f99bf1146c22e8990ee7.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/pre-dexed/release/classes-33f8881eb1bd006866a7ebdbe6a3fe733071f2a7.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/pre-dexed/release/classes-53ca288e04971856ded3b810dc660e36241597a9.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/pre-dexed/debug/classes-ee32ef0ea9ead4f7fed808efe70e98b4abac3670.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/pre-dexed/release/internal_impl-22.0.0-24487b206857b6a11fe334d2ccfc10041464c0aa.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/pre-dexed/release/classes-7200255c2d930b4755239e684d41a1f1abdcb0dc.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/pre-dexed/debug/classes-3a9e6a8e59a2f1785aa8381ddc674c8bf85d1904.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LaughSound/app/build/intermediates/pre-dexed/release/internal_impl-22.0.0-1df10767e44520d44a711a427b381f78e63db492.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/pre-dexed/release/classes-b414ace324855867501edd20f530a0408d4a9fa8.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/Documents/Desarrollo/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/FartSound/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a93a60d297d336c026f1628405cc417c672326e7.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/LongFartSound/app/build/intermediates/pre-dexed/release/classes-459abc3a193927038b7f28ed32b3d448c6a35ae0.jar" />
+    </item>
+
+</items>
